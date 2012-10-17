@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1348790256 source:c:\users\gutow\desktop\guto_packman\guto_packman\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+	"mapa.c"
+	"packman.c"
+	"utilitarios.c"
+	"movimento.c"
+	"fantasma.c"
+
+924709706 c:\dev-cpp\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1107034520 c:\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107034520 c:\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107034520 c:\dev-cpp\include\winuser.h
+
+1107034520 c:\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107034520 c:\dev-cpp\include\winerror.h
+
+1107034524 c:\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1107034524 c:\dev-cpp\include\_mingw.h
+
+1107034524 c:\dev-cpp\include\stddef.h
+
+1107034520 c:\dev-cpp\include\basetsd.h
+
+1107034520 c:\dev-cpp\include\pshpack4.h
+
+1107034520 c:\dev-cpp\include\poppack.h
+
+1107034520 c:\dev-cpp\include\winver.h
+
+1107034520 c:\dev-cpp\include\dde.h
+
+1107034520 c:\dev-cpp\include\dlgs.h
+
+1107034520 c:\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107034520 c:\dev-cpp\include\prsht.h
+
+1107034524 c:\dev-cpp\include\stdarg.h
+
+1107034520 c:\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107034520 c:\dev-cpp\include\wincon.h
+
+1107034520 c:\dev-cpp\include\winbase.h
+
+1107034520 c:\dev-cpp\include\wingdi.h
+
+1107034520 c:\dev-cpp\include\winnls.h
+
+1107034520 c:\dev-cpp\include\winnetwk.h
+
+1107034520 c:\dev-cpp\include\winreg.h
+
+1107034520 c:\dev-cpp\include\winsvc.h
+
+1107034520 c:\dev-cpp\include\cderr.h
+
+1107034520 c:\dev-cpp\include\ddeml.h
+
+1107034520 c:\dev-cpp\include\imm.h
+
+1107034520 c:\dev-cpp\include\lzexpand.h
+
+1107034520 c:\dev-cpp\include\mmsystem.h
+
+1107034520 c:\dev-cpp\include\nb30.h
+
+1107034520 c:\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107034520 c:\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107034520 c:\dev-cpp\include\basetyps.h
+
+1107034520 c:\dev-cpp\include\rpcdcep.h
+
+1107034520 c:\dev-cpp\include\rpcnsi.h
+
+1107034520 c:\dev-cpp\include\rpcnterr.h
+
+1107034524 c:\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107034520 c:\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107034520 c:\dev-cpp\include\pshpack2.h
+
+1107034520 c:\dev-cpp\include\winperf.h
+
+1107034520 c:\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107034520 c:\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107034520 c:\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107034520 c:\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107034520 c:\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107034520 c:\dev-cpp\include\rpcnsip.h
+
+1107034520 c:\dev-cpp\include\winspool.h
+
+1107034520 c:\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107034520 c:\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107034520 c:\dev-cpp\include\mswsock.h
+
+1107034520 c:\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107034520 c:\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107034524 c:\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107034520 c:\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107034520 c:\dev-cpp\include\cguid.h
+
+1107034520 c:\dev-cpp\include\olectlid.h
+
+1107034520 c:\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107034520 c:\dev-cpp\include\oaidl.h
+
+1107034520 c:\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1107034520 c:\dev-cpp\include\gl\gl.h
+
+1107034520 c:\dev-cpp\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1346973767 c:\users\gutow\desktop\guto_packman\guto_packman\constantes.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1348789996 source:c:\users\gutow\desktop\guto_packman\guto_packman\constantes.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+
+1347149869 source:c:\users\gutow\desktop\guto_packman\guto_packman\mapa.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+	"metodos.h"
+
+1347149869 c:\users\gutow\desktop\guto_packman\guto_packman\mapa.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+	"metodos.h"
+
+1348788791 c:\users\gutow\desktop\guto_packman\guto_packman\utilitarios.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"extern.h"
+
+1348788791 source:c:\users\gutow\desktop\guto_packman\guto_packman\utilitarios.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"extern.h"
+
+1348788234 source:c:\users\gutow\desktop\guto_packman\guto_packman\packman.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"extern.h"
+
+1348621721 c:\users\gutow\desktop\guto_packman\guto_packman\extern.h
+	<GL/glut.h>
+
+1348788234 c:\users\gutow\desktop\guto_packman\guto_packman\packman.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"extern.h"
+
+1107034524 c:\dev-cpp\include\math.h
+	<_mingw.h>
+
+1348790469 c:\users\gutow\desktop\guto_packman\guto_packman\movimento.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"extern.h"
+
+1348789978 source:c:\users\gutow\desktop\guto_packman\guto_packman\movimento.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"extern.h"
+
+1347405181 c:\users\gutow\desktop\guto_packman\guto_packman\metodos.h
+
+1348526592 source:c:\users\gutow\desktop\guto_packman\guto_packman\fantasma.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+
+1348526592 c:\users\gutow\desktop\guto_packman\guto_packman\fantasma.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"extern.h"
+
+1107034524 c:\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1107034524 c:\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
